@@ -1,15 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9855b760-7b4d-49c0-b989-411ba2e43bc4" name="Changes" comment="PCA_FA">
-      <change afterPath="$PROJECT_DIR$/.idea/测试中/聚类与关联规则/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/测试中/聚类与关联规则/kmeans聚类.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/测试中/聚类与关联规则/决策树.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/测试中/聚类与关联规则/员工离职率预测.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/测试中/聚类与关联规则/层次聚类.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/测试中/聚类与关联规则/聚类(一).ipynb" afterDir="false" />
+    <list default="true" id="9855b760-7b4d-49c0-b989-411ba2e43bc4" name="Changes" comment="决策树# pip install Graphhviz&#10;   from sklearn import tree">
+      <change afterPath="$PROJECT_DIR$/.idea/测试中/关联规则与协同过滤/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/测试中/关联规则与协同过滤/关联规则案例.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/测试中/聚类与关联规则/电话数据预测.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/rGraphicsSettings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/rGraphicsSettings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/测试中/主成分和因子分析/PCA_FA_tele.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/测试中/主成分和因子分析/PCA_FA_tele.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/测试中/关联规则Apriori.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/测试中/聚类与关联规则/关联规则Apriori.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/测试中/协同过滤.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/测试中/聚类与关联规则/协同过滤.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -65,6 +64,7 @@
 }</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\fzh00\IdeaProjects\python_idea\.idea\测试中\聚类与关联规则" />
       <recent name="C:\Users\fzh00\IdeaProjects\python_idea\.idea\测试中\深度学习" />
       <recent name="C:\Users\fzh00\IdeaProjects\python_idea\.idea\测试中\集成学习" />
     </key>
@@ -149,7 +149,10 @@
       <workItem from="1679020984134" duration="4805000" />
       <workItem from="1679052624399" duration="14081000" />
       <workItem from="1679104851627" duration="21309000" />
-      <workItem from="1679128530950" duration="9273000" />
+      <workItem from="1679128530950" duration="9463000" />
+      <workItem from="1679147044711" duration="4259000" />
+      <workItem from="1679192481901" duration="5244000" />
+      <workItem from="1679201698234" duration="1320000" />
     </task>
     <task id="LOCAL-00001" summary="逻辑回归、自建房安例，线性回归、集成学习、深度学习">
       <created>1679060528902</created>
@@ -165,7 +168,14 @@
       <option name="project" value="LOCAL" />
       <updated>1679119706913</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="决策树# pip install Graphhviz&#10;   from sklearn import tree">
+      <created>1679138009387</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1679138009387</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -185,7 +195,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="逻辑回归、自建房安例，线性回归、集成学习、深度学习" />
     <MESSAGE value="PCA_FA" />
-    <option name="LAST_COMMIT_MESSAGE" value="PCA_FA" />
+    <MESSAGE value="决策树# pip install Graphhviz&#10;   from sklearn import tree" />
+    <option name="LAST_COMMIT_MESSAGE" value="决策树# pip install Graphhviz&#10;   from sklearn import tree" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
