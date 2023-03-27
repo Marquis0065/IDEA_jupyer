@@ -1,14 +1,35 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9855b760-7b4d-49c0-b989-411ba2e43bc4" name="Changes" comment="决策树# pip install Graphhviz&#10;   from sklearn import tree">
-      <change afterPath="$PROJECT_DIR$/.idea/测试中/关联规则与协同过滤/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/测试中/关联规则与协同过滤/关联规则案例.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/测试中/聚类与关联规则/电话数据预测.ipynb" afterDir="false" />
+    <list default="true" id="9855b760-7b4d-49c0-b989-411ba2e43bc4" name="Changes" comment="机器学习完整版">
+      <change afterPath="$PROJECT_DIR$/.idea/测试中/dataScience案例/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/测试中/dataScience案例/accident.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/测试中/dataScience案例/boston_house.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/测试中/dataScience案例/dataScience数据预处理.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/测试中/dataScience案例/test321.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/测试中/dataScience案例/保险反欺诈_天池.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/测试中/dataScience案例/天池_银行.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/测试中/dataScience案例/电话数据预测.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/测试中/关联规则与协同过滤/协同过滤.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/测试中/关联规则与协同过滤/电影推荐.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/测试中/决策树与随机森林/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/测试中/决策树与随机森林/iris.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/测试中/股市行情/A股全部股票.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/测试中/股市行情/__init__.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/rGraphicsSettings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/rGraphicsSettings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/测试中/关联规则Apriori.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/测试中/聚类与关联规则/关联规则Apriori.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/测试中/协同过滤.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/测试中/聚类与关联规则/协同过滤.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/测试中/主成分和因子分析/PCA_FA_tele.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/测试中/主成分和因子分析/PCA_FA_tele.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/测试中/深度学习/神经网络(sklearn).ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/测试中/深度学习/神经网络(sklearn).ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/测试中/线 性回归/多元线性回归模型案例.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/测试中/线 性回归/多元线性回归模型案例.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/测试中/线 性回归/自建房案例.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/测试中/线 性回归/自建房案例.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/测试中/聚类与关联规则/决策树.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/测试中/聚类与关联规则/决策树.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/测试中/聚类与关联规则/员工离职率预测.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/测试中/聚类与关联规则/员工离职率预测.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/测试中/聚类与关联规则/聚类(一).ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/测试中/聚类与关联规则/聚类(一).ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/测试中/逻辑回归/逻辑回归（一）.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/测试中/逻辑回归/逻辑回归（一）.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/测试中/集成学习/LightGBM.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/测试中/集成学习/LightGBM.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/测试中/集成学习/XGBoost.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/测试中/集成学习/XGBoost.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/测试中/集成学习/随机森林.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/测试中/集成学习/随机森林.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/测试中/集成学习/集成 学习一.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/测试中/集成学习/集成 学习一.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -152,7 +173,29 @@
       <workItem from="1679128530950" duration="9463000" />
       <workItem from="1679147044711" duration="4259000" />
       <workItem from="1679192481901" duration="5244000" />
-      <workItem from="1679201698234" duration="1320000" />
+      <workItem from="1679201698234" duration="1950000" />
+      <workItem from="1679237585835" duration="2028000" />
+      <workItem from="1679240253791" duration="88000" />
+      <workItem from="1679240696929" duration="76000" />
+      <workItem from="1679277465598" duration="94000" />
+      <workItem from="1679281958199" duration="129000" />
+      <workItem from="1679282884688" duration="81000" />
+      <workItem from="1679283397794" duration="691000" />
+      <workItem from="1679293174336" duration="8526000" />
+      <workItem from="1679312893070" duration="5810000" />
+      <workItem from="1679318770062" duration="2607000" />
+      <workItem from="1679371988981" duration="1409000" />
+      <workItem from="1679374076470" duration="2616000" />
+      <workItem from="1679486067536" duration="6733000" />
+      <workItem from="1679493105910" duration="116000" />
+      <workItem from="1679538569908" duration="23053000" />
+      <workItem from="1679572638487" duration="8009000" />
+      <workItem from="1679646874960" duration="8909000" />
+      <workItem from="1679713273426" duration="17856000" />
+      <workItem from="1679746551228" duration="5194000" />
+      <workItem from="1679798404551" duration="15754000" />
+      <workItem from="1679890294214" duration="10946000" />
+      <workItem from="1679907089380" duration="14193000" />
     </task>
     <task id="LOCAL-00001" summary="逻辑回归、自建房安例，线性回归、集成学习、深度学习">
       <created>1679060528902</created>
@@ -175,7 +218,14 @@
       <option name="project" value="LOCAL" />
       <updated>1679138009387</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="机器学习完整版">
+      <created>1679203181163</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1679203181163</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -196,7 +246,8 @@
     <MESSAGE value="逻辑回归、自建房安例，线性回归、集成学习、深度学习" />
     <MESSAGE value="PCA_FA" />
     <MESSAGE value="决策树# pip install Graphhviz&#10;   from sklearn import tree" />
-    <option name="LAST_COMMIT_MESSAGE" value="决策树# pip install Graphhviz&#10;   from sklearn import tree" />
+    <MESSAGE value="机器学习完整版" />
+    <option name="LAST_COMMIT_MESSAGE" value="机器学习完整版" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
