@@ -1,31 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9855b760-7b4d-49c0-b989-411ba2e43bc4" name="Changes" comment="机器学习完整版">
-      <change afterPath="$PROJECT_DIR$/.idea/测试中/dataScience案例/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/测试中/dataScience案例/accident.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/测试中/dataScience案例/boston_house.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/测试中/dataScience案例/dataScience数据预处理.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/测试中/dataScience案例/test321.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/测试中/dataScience案例/保险反欺诈_天池.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/测试中/dataScience案例/天池_银行.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/测试中/dataScience案例/电话数据预测.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/测试中/关联规则与协同过滤/协同过滤.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/测试中/关联规则与协同过滤/电影推荐.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/测试中/决策树与随机森林/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/测试中/决策树与随机森林/iris.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/测试中/股市行情/A股全部股票.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/测试中/股市行情/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/rGraphicsSettings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/rGraphicsSettings.xml" afterDir="false" />
+    <list default="true" id="9855b760-7b4d-49c0-b989-411ba2e43bc4" name="Changes" comment="knn 对分类变量可以不太支持2023-4-23">
+      <change afterPath="$PROJECT_DIR$/.idea/测试中/_Data/balloon1.0(en).txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/测试中/_Data/balloon1.0.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/测试中/_Data/balloon1.5.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/测试中/_Data/balloon2.0.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/测试中/_Data/bank1.0.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/测试中/_Data/cifar10.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/测试中/_Data/madelon.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/测试中/_Data/mnist.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/测试中/_Data/mushroom.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/测试中/_Data/prices.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/测试中/_Data/test.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/测试中/dataScience案例/保险反欺诈(二）.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/测试中/dataScience案例/贷款违约率_天池.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/测试中/线 性回归/make_regression.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/测试中/聚类与关联规则/测试.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/测试中/股市行情/量化投资.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/测试中/集成学习/练习(保险数据）.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/测试中/主成分和因子分析/PCA_FA_tele.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/测试中/主成分和因子分析/PCA_FA_tele.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/测试中/深度学习/神经网络(sklearn).ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/测试中/深度学习/神经网络(sklearn).ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/测试中/dataScience案例/test321.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/测试中/dataScience案例/test321.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/测试中/dataScience案例/保险反欺诈_天池.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/测试中/dataScience案例/保险反欺诈_天池.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/测试中/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/测试中/test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/测试中/tt.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/测试中/tt.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/测试中/线 性回归/多元线性回归模型案例.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/测试中/线 性回归/多元线性回归模型案例.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/测试中/线 性回归/自建房案例.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/测试中/线 性回归/自建房案例.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/测试中/聚类与关联规则/kmeans聚类.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/测试中/聚类与关联规则/kmeans聚类.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/测试中/聚类与关联规则/决策树.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/测试中/聚类与关联规则/决策树.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/测试中/聚类与关联规则/员工离职率预测.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/测试中/聚类与关联规则/员工离职率预测.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/测试中/聚类与关联规则/聚类(一).ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/测试中/聚类与关联规则/聚类(一).ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/测试中/逻辑回归/逻辑回归（一）.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/测试中/逻辑回归/逻辑回归（一）.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/测试中/股市行情/A股全部股票.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/测试中/股市行情/A股全部股票.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/测试中/集成学习/LightGBM.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/测试中/集成学习/LightGBM.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/测试中/集成学习/XGBoost.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/测试中/集成学习/XGBoost.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/测试中/集成学习/随机森林.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/测试中/集成学习/随机森林.ipynb" afterDir="false" />
@@ -75,7 +77,7 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Data/Jupyter_file/机器学习/信用卡评分与反欺诈/社交网络code/社交网络_完整代码.ipynb&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/fzh00/IdeaProjects/python_idea/.idea/测试中&quot;,
     &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
     &quot;project.structure.last.edited&quot;: &quot;SDKs&quot;,
     &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
@@ -84,13 +86,16 @@
   }
 }</component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\fzh00\IdeaProjects\python_idea\.idea\测试中" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\fzh00\IdeaProjects\python_idea\.idea\测试中\聚类与关联规则" />
       <recent name="C:\Users\fzh00\IdeaProjects\python_idea\.idea\测试中\深度学习" />
       <recent name="C:\Users\fzh00\IdeaProjects\python_idea\.idea\测试中\集成学习" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.cluster">
+  <component name="RunManager" selected="Python.test">
     <configuration name="逻辑回归" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python_idea" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -135,8 +140,31 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="python_idea" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/.idea/测试中" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/.idea/测试中/test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.test" />
         <item itemvalue="Python.cluster" />
         <item itemvalue="Python.逻辑回归" />
       </list>
@@ -195,7 +223,27 @@
       <workItem from="1679746551228" duration="5194000" />
       <workItem from="1679798404551" duration="15754000" />
       <workItem from="1679890294214" duration="10946000" />
-      <workItem from="1679907089380" duration="14193000" />
+      <workItem from="1679907089380" duration="15635000" />
+      <workItem from="1679981071934" duration="20467000" />
+      <workItem from="1680496465603" duration="559000" />
+      <workItem from="1680506561299" duration="2589000" />
+      <workItem from="1680522872897" duration="4161000" />
+      <workItem from="1680590669237" duration="295000" />
+      <workItem from="1680591354371" duration="72000" />
+      <workItem from="1680596261425" duration="2825000" />
+      <workItem from="1680860979467" duration="3271000" />
+      <workItem from="1681386978266" duration="3953000" />
+      <workItem from="1681443249208" duration="10100000" />
+      <workItem from="1681466361100" duration="4148000" />
+      <workItem from="1682244580176" duration="2620000" />
+      <workItem from="1682336719620" duration="3982000" />
+      <workItem from="1682402207876" duration="9386000" />
+      <workItem from="1682584711969" duration="5304000" />
+      <workItem from="1682594801483" duration="361000" />
+      <workItem from="1682600177483" duration="3904000" />
+      <workItem from="1682750959655" duration="11696000" />
+      <workItem from="1682765384526" duration="206000" />
+      <workItem from="1682770103425" duration="9240000" />
     </task>
     <task id="LOCAL-00001" summary="逻辑回归、自建房安例，线性回归、集成学习、深度学习">
       <created>1679060528902</created>
@@ -225,7 +273,14 @@
       <option name="project" value="LOCAL" />
       <updated>1679203181163</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="knn 对分类变量可以不太支持2023-3-27">
+      <created>1679924066340</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1679924066340</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -247,7 +302,8 @@
     <MESSAGE value="PCA_FA" />
     <MESSAGE value="决策树# pip install Graphhviz&#10;   from sklearn import tree" />
     <MESSAGE value="机器学习完整版" />
-    <option name="LAST_COMMIT_MESSAGE" value="机器学习完整版" />
+    <MESSAGE value="knn 对分类变量可以不太支持2023-3-27" />
+    <option name="LAST_COMMIT_MESSAGE" value="knn 对分类变量可以不太支持2023-3-27" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
@@ -255,7 +311,7 @@
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/python_idea$.coverage" NAME="逻辑回归 Coverage Results" MODIFIED="1678601580083" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/.idea/测试中" />
-    <SUITE FILE_PATH="coverage/python_idea$test.coverage" NAME="test Coverage Results" MODIFIED="1678785669567" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/.idea/测试中" />
+    <SUITE FILE_PATH="coverage/python_idea$test.coverage" NAME="test Coverage Results" MODIFIED="1682751825764" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/.idea/测试中" />
     <SUITE FILE_PATH="coverage/python_idea$cluster.coverage" NAME="cluster Coverage Results" MODIFIED="1678607823188" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/.idea/测试中" />
   </component>
 </project>

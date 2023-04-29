@@ -20,3 +20,22 @@
 # #找出最相似的前K个用户
 # similar_k_users=similar_matrix.loc[user_id,:].sort_values(ascending=False)[1:k+1].sort_index()
 # print(similar_k_users)
+
+import numpy as np
+import matplotlib.pylab as plt
+
+x, y = [], []
+for sample in open(r'..\_Data\prices.txt', "r"):
+    xx, yy = sample.split(",")
+    x.append(float(xx))
+    y.append(float(yy))
+x, y = np.array(x), np.array(y)
+# Perform normalization
+x = (x - x.mean()) / x.std()
+# Scatter dataset
+plt.figure()
+plt.scatter(x, y, c="g", s=20)
+plt.show()
+
+
+
