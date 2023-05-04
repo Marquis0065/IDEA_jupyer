@@ -1,36 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9855b760-7b4d-49c0-b989-411ba2e43bc4" name="Changes" comment="knn 对分类变量可以不太支持2023-4-23">
-      <change afterPath="$PROJECT_DIR$/.idea/测试中/_Data/balloon1.0(en).txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/测试中/_Data/balloon1.0.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/测试中/_Data/balloon1.5.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/测试中/_Data/balloon2.0.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/测试中/_Data/bank1.0.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/测试中/_Data/cifar10.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/测试中/_Data/madelon.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/测试中/_Data/mnist.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/测试中/_Data/mushroom.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/测试中/_Data/prices.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/测试中/_Data/test.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/测试中/dataScience案例/保险反欺诈(二）.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/测试中/dataScience案例/贷款违约率_天池.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/测试中/线 性回归/make_regression.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/测试中/聚类与关联规则/测试.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/测试中/股市行情/量化投资.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/测试中/集成学习/练习(保险数据）.ipynb" afterDir="false" />
+    <list default="true" id="9855b760-7b4d-49c0-b989-411ba2e43bc4" name="Changes" comment=" 随机森林可以用于回归分析 2023-4-29">
+      <change afterPath="$PROJECT_DIR$/.idea/测试中/阿里天池/二手车交易.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/测试中/dataScience案例/test321.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/测试中/dataScience案例/test321.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/测试中/dataScience案例/保险反欺诈_天池.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/测试中/dataScience案例/保险反欺诈_天池.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/测试中/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/测试中/test.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/测试中/tt.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/测试中/tt.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/测试中/正则化/正则化(一）.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/测试中/正则化/正则化(一）.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/测试中/线 性回归/多元线性回归模型案例.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/测试中/线 性回归/多元线性回归模型案例.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/测试中/聚类与关联规则/kmeans聚类.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/测试中/聚类与关联规则/kmeans聚类.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/测试中/聚类与关联规则/决策树.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/测试中/聚类与关联规则/决策树.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/测试中/股市行情/A股全部股票.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/测试中/股市行情/A股全部股票.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/测试中/集成学习/LightGBM.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/测试中/集成学习/LightGBM.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/测试中/集成学习/XGBoost.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/测试中/集成学习/XGBoost.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/测试中/集成学习/随机森林.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/测试中/集成学习/随机森林.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/测试中/集成学习/集成 学习一.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/测试中/集成学习/集成 学习一.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -243,7 +219,13 @@
       <workItem from="1682600177483" duration="3904000" />
       <workItem from="1682750959655" duration="11696000" />
       <workItem from="1682765384526" duration="206000" />
-      <workItem from="1682770103425" duration="9240000" />
+      <workItem from="1682770103425" duration="11796000" />
+      <workItem from="1682837469986" duration="8659000" />
+      <workItem from="1682852755803" duration="4668000" />
+      <workItem from="1682862746483" duration="4308000" />
+      <workItem from="1682951084387" duration="2160000" />
+      <workItem from="1683033568091" duration="2867000" />
+      <workItem from="1683180351362" duration="5616000" />
     </task>
     <task id="LOCAL-00001" summary="逻辑回归、自建房安例，线性回归、集成学习、深度学习">
       <created>1679060528902</created>
@@ -280,7 +262,14 @@
       <option name="project" value="LOCAL" />
       <updated>1679924066340</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary=" 随机森林可以用于回归分析 2023-4-29">
+      <created>1682780814565</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1682780814566</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -303,7 +292,8 @@
     <MESSAGE value="决策树# pip install Graphhviz&#10;   from sklearn import tree" />
     <MESSAGE value="机器学习完整版" />
     <MESSAGE value="knn 对分类变量可以不太支持2023-3-27" />
-    <option name="LAST_COMMIT_MESSAGE" value="knn 对分类变量可以不太支持2023-3-27" />
+    <MESSAGE value=" 随机森林可以用于回归分析 2023-4-29" />
+    <option name="LAST_COMMIT_MESSAGE" value=" 随机森林可以用于回归分析 2023-4-29" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
