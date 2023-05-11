@@ -1,13 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9855b760-7b4d-49c0-b989-411ba2e43bc4" name="Changes" comment=" 随机森林可以用于回归分析 2023-4-29">
-      <change afterPath="$PROJECT_DIR$/.idea/测试中/阿里天池/二手车交易.ipynb" afterDir="false" />
+    <list default="true" id="9855b760-7b4d-49c0-b989-411ba2e43bc4" name="Changes" comment=" 随机森林可以用于回归分析 2023-5-4">
+      <change afterPath="$PROJECT_DIR$/.idea/测试中/dataScience案例/breast_cancer.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/测试中/dataScience案例/母婴购物.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/测试中/正则化/正则化(一）.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/测试中/正则化/正则化(一）.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/测试中/线 性回归/多元线性回归模型案例.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/测试中/线 性回归/多元线性回归模型案例.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/测试中/聚类与关联规则/kmeans聚类.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/测试中/聚类与关联规则/kmeans聚类.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/测试中/集成学习/集成 学习一.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/测试中/集成学习/集成 学习一.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,20 +44,20 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/fzh00/IdeaProjects/python_idea/.idea/测试中&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;SDKs&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;project.propVCSSupport.Mappings&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Users/fzh00/IdeaProjects/python_idea/.idea/测试中",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "SDKs",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "project.propVCSSupport.Mappings"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\fzh00\IdeaProjects\python_idea\.idea\测试中" />
@@ -225,7 +222,10 @@
       <workItem from="1682862746483" duration="4308000" />
       <workItem from="1682951084387" duration="2160000" />
       <workItem from="1683033568091" duration="2867000" />
-      <workItem from="1683180351362" duration="5616000" />
+      <workItem from="1683180351362" duration="6306000" />
+      <workItem from="1683267745758" duration="7925000" />
+      <workItem from="1683298488120" duration="479000" />
+      <workItem from="1683805784219" duration="23680000" />
     </task>
     <task id="LOCAL-00001" summary="逻辑回归、自建房安例，线性回归、集成学习、深度学习">
       <created>1679060528902</created>
@@ -269,7 +269,14 @@
       <option name="project" value="LOCAL" />
       <updated>1682780814566</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary=" 随机森林可以用于回归分析 2023-5-4">
+      <created>1683196190950</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1683196190950</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -293,7 +300,8 @@
     <MESSAGE value="机器学习完整版" />
     <MESSAGE value="knn 对分类变量可以不太支持2023-3-27" />
     <MESSAGE value=" 随机森林可以用于回归分析 2023-4-29" />
-    <option name="LAST_COMMIT_MESSAGE" value=" 随机森林可以用于回归分析 2023-4-29" />
+    <MESSAGE value=" 随机森林可以用于回归分析 2023-5-4" />
+    <option name="LAST_COMMIT_MESSAGE" value=" 随机森林可以用于回归分析 2023-5-4" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
