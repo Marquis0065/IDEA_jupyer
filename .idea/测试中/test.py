@@ -1,3 +1,13 @@
+
+
+
+# import xlwings as xw
+# app = xw.App(visible=False,add_book=False)
+# wb = app.books.open(r"C:\Data\Jupyter_file\Python数据清洗基础\办公自动化\4、考勤统计\排班.xlsx")
+# wb.sheets('第一周').range('i1:i12').value=[i+1 for i in range(12)]
+# wb.save()
+# wb.close()
+# app.quit()
 # import numpy as np
 # import pandas as pd
 # import warnings
@@ -37,7 +47,8 @@
 # plt.scatter(x, y, c="g", s=20)
 # plt.show()
 
-print(input('请输入：'))
+
+
 
 
 

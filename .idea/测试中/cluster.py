@@ -77,4 +77,4 @@ dot_data=tree.export_graphviz(clf,
 graph=pydotplus.graph_from_dot_data(dot_data)
 print(Image(graph.create_png()))
 #保存图像到pdf文件
-# graph.write_pdf('决策树.pdf')
+graph.write_pdf('决策树617.pdf')
